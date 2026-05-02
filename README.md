@@ -19,4 +19,4 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 
 ## Currently learning
 
-**AI/Machine learning** · **Advanced animations (Framer Motion)** · **User testing methods** · **Backend basics for full‑context design**
+**AI/Machine learning** · **Advanced animations** · **User testing methods** · **Backend basics for full‑context design**

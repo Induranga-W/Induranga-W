@@ -1,6 +1,6 @@
 # I'm Dileepa Induranga
 
-I'm a **Computer Science student** and i build **frontend experiences**, **Simple web applications** and designs **intuitive interfaces**,  
+I'm a **Computer Science student** and I build **frontend experiences**, **Simple web applications** and designs **intuitive interfaces**,  
 and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 
 ---

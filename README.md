@@ -21,6 +21,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=A259FF)
+![supabase](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
 
 ---
 

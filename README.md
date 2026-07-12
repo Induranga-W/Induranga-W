@@ -11,7 +11,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 
 ---
 
-## Tech & tools I actually use
+## Tech & tools I use
 
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

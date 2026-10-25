@@ -13,6 +13,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 
 ## Tech & tools I use
 
+![nextjs](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)

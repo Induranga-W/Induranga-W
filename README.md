@@ -8,7 +8,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 ## Currently working on
 
 ![SILVER7](https://img.shields.io/badge/SILVERSEVEN-1197cc?style=for-the-badge&logo=7&logoColor=3776AB)
-![CR](https://img.shields.io/badge/CUTTINGROOM-1197cc?style=for-the-badge&logo=7&logoColor=2A0134)
+![CR](https://img.shields.io/badge/CUTTINGROOM-2A0134?style=for-the-badge&logo=7&logoColor=2A0134)
 
 ---
 

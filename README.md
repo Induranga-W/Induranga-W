@@ -8,7 +8,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 ## Currently working on
 
 ![SILVER7](https://img.shields.io/badge/SILVERSEVEN-1197cc?style=for-the-badge&logo=7&logoColor=3776AB)
-![CR](https://img.shields.io/badge/CUTTINGROOM-1197cc?style=for-the-badge&logo=7&logoColor=3776AB)
+![CR](https://img.shields.io/badge/CUTTINGROOM-1197cc?style=for-the-badge&logo=7&logoColor=2A0134)
 
 ---
 
@@ -24,6 +24,7 @@ and I'm moving toward **AI/ML** and **Advanced interactive web experiences**.
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=A259FF)
 ![supabase](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
+![Netlify](https://img.shields.io/badge/NETLIFY-black?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 ---
 
